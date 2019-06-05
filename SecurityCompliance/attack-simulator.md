@@ -132,7 +132,7 @@ Visit the [Microsoft 365 Roadmap](https://www.microsoft.com/microsoft-365/roadma
 
 ## See also
 
-[Office 365 Advanced Threat Protection Service Desription](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
+[Office 365 Advanced Threat Protection Service Description](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
 
 [Office 365 Advanced Threat Protection](office-365-atp.md)
 
